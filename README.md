@@ -1,4 +1,3 @@
-Here is a professional, copy-paste ready README.md in English:
 
 OOP Inventory Management System
 A robust and modular inventory management system developed in C++ using Object-Oriented Programming (OOP) principles. This system is designed to handle product tracking, stock management, and reporting through a clean CLI interface.
